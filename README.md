@@ -1,3 +1,8 @@
+<!-- textura-banner -->
+<div align="center">
+  <a href="https://github.com/beepboop2025/formcraft"><img src="./banner.svg" width="100%" alt="formcraft" /></a>
+</div>
+
 <p align="center">
   <img src="docs/screenshots/hero.png" alt="FormCraft — Beautiful Forms That Convert" width="100%" />
 </p>
