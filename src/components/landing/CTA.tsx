@@ -16,7 +16,7 @@ export default function CTA() {
           Ready to build forms that actually convert?
         </h2>
         <p className="mt-6 text-lg text-gray-400 max-w-2xl mx-auto">
-          Join thousands of creators, marketers, and businesses who trust FormCraft
+          Join thousands of creators, marketers, and businesses who trust Formary
           for their forms. Start for free — no credit card required.
         </p>
         <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">

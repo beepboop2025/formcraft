@@ -57,7 +57,7 @@ export default function DashboardPage() {
               <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-brand-600 text-white">
                 <Zap className="h-4 w-4" />
               </div>
-              <span className="text-lg font-bold text-gray-900">FormCraft</span>
+              <span className="text-lg font-bold text-gray-900">Formary</span>
             </Link>
 
             <div className="flex items-center gap-3">

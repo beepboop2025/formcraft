@@ -9,7 +9,7 @@ export const PLANS = {
     name: "Free",
     forms: 3,
     responsesPerMonth: 100,
-    features: ["3 forms", "100 responses/month", "Basic themes", "FormCraft branding"],
+    features: ["3 forms", "100 responses/month", "Basic themes", "Formary branding"],
   },
   pro: {
     name: "Pro",

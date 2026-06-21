@@ -69,7 +69,7 @@ export default function Hero() {
                 </div>
                 <div className="flex-1 mx-4">
                   <div className="mx-auto max-w-md rounded-md bg-white border border-gray-200 px-3 py-1.5 text-xs text-gray-400">
-                    app.formcraft.io/builder
+                    app.formary.io/builder
                   </div>
                 </div>
               </div>

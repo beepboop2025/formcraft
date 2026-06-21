@@ -1,13 +1,13 @@
 <!-- textura-banner -->
 <div align="center">
-  <a href="https://github.com/beepboop2025/formcraft"><img src="./banner.svg" width="100%" alt="formcraft" /></a>
+  <a href="https://github.com/beepboop2025/formary"><img src="./banner.svg" width="100%" alt="formary" /></a>
 </div>
 
 <p align="center">
-  <img src="docs/screenshots/hero.png" alt="FormCraft — Beautiful Forms That Convert" width="100%" />
+  <img src="docs/screenshots/hero.png" alt="Formary — Beautiful Forms That Convert" width="100%" />
 </p>
 
-<h1 align="center">FormCraft</h1>
+<h1 align="center">Formary</h1>
 
 <p align="center">
   <strong>Beautiful forms that convert.</strong><br/>
@@ -28,7 +28,7 @@
 ## Features
 
 <p align="center">
-  <img src="docs/screenshots/features.png" alt="FormCraft Features" width="100%" />
+  <img src="docs/screenshots/features.png" alt="Formary Features" width="100%" />
 </p>
 
 - **Drag & Drop Builder** — Build forms visually with an intuitive editor. No coding required.
@@ -38,7 +38,7 @@
 - **Real-time Analytics** — Track views, completion rates, and drop-off points.
 - **Powerful Integrations** — Connect with Zapier, Webhooks, Google Sheets, Slack, and more.
 - **File Uploads** — Accept documents, images, videos with configurable size limits.
-- **Custom Branding** — Remove FormCraft branding, use your own domain and colors.
+- **Custom Branding** — Remove Formary branding, use your own domain and colors.
 - **Embeds & Sharing** — Embed forms anywhere with one line of code, or share via link.
 
 ---
@@ -73,8 +73,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/beepboop2025/formcraft.git
-cd formcraft
+git clone https://github.com/beepboop2025/formary.git
+cd formary
 
 # Install dependencies
 npm install
@@ -156,7 +156,7 @@ STRIPE_BUSINESS_YEARLY_PRICE_ID="price_..."
 ## Architecture
 
 ```
-formcraft/
+formary/
 ├── prisma/
 │   └── schema.prisma          # Database schema (User, Form, Response, etc.)
 ├── src/
@@ -226,12 +226,12 @@ npm run db:seed      # Seed database with sample data
 
 ## Deployment
 
-FormCraft is ready for deployment on **Vercel**, **Railway**, or any Node.js hosting platform.
+Formary is ready for deployment on **Vercel**, **Railway**, or any Node.js hosting platform.
 
 For production, swap SQLite for PostgreSQL by updating `DATABASE_URL`:
 
 ```env
-DATABASE_URL="postgresql://user:pass@host:5432/formcraft"
+DATABASE_URL="postgresql://user:pass@host:5432/formary"
 ```
 
 Then update `prisma/schema.prisma` provider from `sqlite` to `postgresql` and run `npm run db:push`.
@@ -246,5 +246,5 @@ MIT
 
 <p align="center">
   Built with Next.js, Tailwind CSS, Prisma, and Stripe.<br/>
-  <strong>FormCraft</strong> — Beautiful forms that convert.
+  <strong>Formary</strong> — Beautiful forms that convert.
 </p>

@@ -68,12 +68,12 @@ export default function PublicFormPage() {
           <FormRenderer form={form} onSubmit={handleSubmit} />
         </div>
 
-        {/* FormCraft branding */}
+        {/* Formary branding */}
         <div className="mt-6 flex items-center justify-center gap-1.5 text-xs text-gray-400">
           <span>Powered by</span>
           <Link href="/" className="flex items-center gap-1 font-medium text-gray-500 hover:text-gray-700 transition-colors">
             <Zap className="h-3 w-3" />
-            FormCraft
+            Formary
           </Link>
         </div>
       </div>

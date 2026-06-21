@@ -1,4 +1,4 @@
-export const SITE_NAME = "FormCraft";
+export const SITE_NAME = "Formary";
 export const SITE_TAGLINE = "Beautiful forms that convert.";
 export const SITE_DESCRIPTION =
   "Create stunning forms, surveys, and quizzes in minutes. No response limits. No hidden fees. Just beautiful forms that get results.";
@@ -55,7 +55,7 @@ export const FEATURES = [
   {
     title: "Custom Branding",
     description:
-      "Remove FormCraft branding, use your own domain, and match your brand colors. Your form, your identity.",
+      "Remove Formary branding, use your own domain, and match your brand colors. Your form, your identity.",
     icon: "Brush",
   },
   {
@@ -71,14 +71,14 @@ export const PRICING_PLANS = [
     name: "Starter",
     price: 0,
     period: "forever",
-    description: "Perfect for trying out FormCraft",
+    description: "Perfect for trying out Formary",
     features: [
       "3 forms",
       "100 responses/month",
       "10+ field types",
       "Basic themes",
       "Email notifications",
-      "FormCraft branding",
+      "Formary branding",
     ],
     cta: "Get Started Free",
     highlighted: false,
@@ -144,7 +144,7 @@ export const TESTIMONIALS = [
     role: "Marketing Director",
     company: "GrowthLab",
     content:
-      "We switched from Typeform and saved over $400/month. FormCraft gives us everything we need without the per-response pricing trap.",
+      "We switched from Typeform and saved over $400/month. Formary gives us everything we need without the per-response pricing trap.",
     avatar: "SC",
   },
   {

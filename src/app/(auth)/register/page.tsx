@@ -50,7 +50,7 @@ export default function RegisterPage() {
           <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-brand-600 text-white">
             <Zap className="h-5 w-5" />
           </div>
-          <span className="text-xl font-bold text-gray-900">FormCraft</span>
+          <span className="text-xl font-bold text-gray-900">Formary</span>
         </Link>
 
         <div className="rounded-2xl border border-gray-100 bg-white p-8 shadow-sm">
