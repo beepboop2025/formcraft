@@ -240,7 +240,7 @@ Then update `prisma/schema.prisma` provider from `sqlite` to `postgresql` and ru
 
 ## License
 
-MIT
+Source-available, not open source. See [LICENSE.md](LICENSE.md) for what is permitted.
 
 ---
 
