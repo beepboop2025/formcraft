@@ -13,7 +13,7 @@ export default function CTA() {
 
       <div className="relative mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 text-center">
         <h2 className="text-3xl sm:text-5xl font-bold text-white text-balance">
-          Ready to build forms that actually convert?
+          Ready to build your first form?
         </h2>
         <p className="mt-6 text-lg text-gray-400 max-w-2xl mx-auto">
           Join thousands of creators, marketers, and businesses who trust Formary

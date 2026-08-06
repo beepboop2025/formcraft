@@ -23,7 +23,7 @@ export default function Footer() {
               <span className="text-lg font-bold text-gray-900">{SITE_NAME}</span>
             </div>
             <p className="text-sm text-gray-500 max-w-xs">
-              Beautiful forms that convert. Built for creators, marketers, and businesses of all sizes.
+              Form building, response collection, and analytics for teams and individuals.
             </p>
           </div>
 

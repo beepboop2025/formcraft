@@ -1,7 +1,7 @@
 export const SITE_NAME = "Formary";
-export const SITE_TAGLINE = "Beautiful forms that convert.";
+export const SITE_TAGLINE = "Forms, surveys, and quizzes with conditional logic.";
 export const SITE_DESCRIPTION =
-  "Create stunning forms, surveys, and quizzes in minutes. No response limits. No hidden fees. Just beautiful forms that get results.";
+  "Build and publish forms with conditional logic, payments, response analytics, file uploads, embeds, and custom branding.";
 
 export const NAV_LINKS = [
   { label: "Features", href: "#features" },
@@ -13,7 +13,7 @@ export const FEATURES = [
   {
     title: "Drag & Drop Builder",
     description:
-      "Build forms visually with our intuitive drag-and-drop editor. No coding required — just drag fields, customize, and publish.",
+      "Add, reorder, and configure fields in the visual editor, then preview and publish.",
     icon: "MousePointerClick",
   },
   {
@@ -23,15 +23,15 @@ export const FEATURES = [
     icon: "GitBranch",
   },
   {
-    title: "No Response Limits",
+    title: "Response Collection",
     description:
-      "Collect unlimited responses on every plan. No per-response fees, no surprise charges, no artificial caps.",
+      "Collect and export responses under the limits configured for the selected plan.",
     icon: "Infinity",
   },
   {
-    title: "Beautiful Themes",
+    title: "Themes",
     description:
-      "Choose from professionally designed themes or customize every detail. Your forms will look as good as your brand.",
+      "Choose a supplied theme or customize colors, typography, and branding.",
     icon: "Palette",
   },
   {
@@ -41,7 +41,7 @@ export const FEATURES = [
     icon: "BarChart3",
   },
   {
-    title: "Powerful Integrations",
+    title: "Integrations",
     description:
       "Connect with Zapier, Webhooks, Google Sheets, Slack, and more. Send form data wherever you need it.",
     icon: "Plug",

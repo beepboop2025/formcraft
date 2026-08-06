@@ -56,7 +56,7 @@ export default function RegisterPage() {
         <div className="rounded-2xl border border-gray-100 bg-white p-8 shadow-sm">
           <h1 className="text-xl font-bold text-gray-900 text-center mb-1">Create your account</h1>
           <p className="text-sm text-gray-500 text-center mb-6">
-            Start building beautiful forms for free
+            Create an account to build and publish forms
           </p>
 
           {error && (
