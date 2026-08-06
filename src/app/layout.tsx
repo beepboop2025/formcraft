@@ -3,14 +3,14 @@ import "./globals.css";
 import Providers from "@/components/Providers";
 
 export const metadata: Metadata = {
-  title: "Formary — Beautiful Forms That Convert",
+  title: "Formary | Form builder and response analytics",
   description:
-    "Create stunning forms, surveys, and quizzes in minutes. No response limits. No hidden fees. Just beautiful forms that get results.",
+    "Build forms, surveys, and quizzes with conditional logic, payments, response analytics, file uploads, and custom branding.",
   keywords: ["form builder", "survey maker", "online forms", "typeform alternative", "form creator"],
   openGraph: {
-    title: "Formary — Beautiful Forms That Convert",
+    title: "Formary | Form builder and response analytics",
     description:
-      "Create stunning forms, surveys, and quizzes in minutes. No response limits. No hidden fees.",
+      "Forms, surveys, and quizzes with conditional logic, payments, response analytics, file uploads, and custom branding.",
     type: "website",
   },
 };

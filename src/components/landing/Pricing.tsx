@@ -36,7 +36,7 @@ export default function Pricing() {
             Simple pricing. No surprises.
           </h2>
           <p className="mt-4 text-lg text-gray-600">
-            No per-response fees. No hidden charges. Pick a plan and start building.
+            Compare the response, branding, and collaboration limits for each plan.
           </p>
         </div>
 

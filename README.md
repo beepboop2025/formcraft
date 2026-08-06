@@ -4,14 +4,14 @@
 </div>
 
 <p align="center">
-  <img src="docs/screenshots/hero.png" alt="Formary — Beautiful Forms That Convert" width="100%" />
+  <img src="docs/screenshots/hero.png" alt="Formary form builder" width="100%" />
 </p>
 
 <h1 align="center">Formary</h1>
 
 <p align="center">
-  <strong>Beautiful forms that convert.</strong><br/>
-  Create stunning forms, surveys, and quizzes in minutes. No response limits. No hidden fees.
+  <strong>Forms, surveys, and quizzes with conditional logic.</strong><br/>
+  Build and publish forms with payments, response analytics, file uploads, embeds, and custom branding.
 </p>
 
 <p align="center">
@@ -31,12 +31,12 @@
   <img src="docs/screenshots/features.png" alt="Formary Features" width="100%" />
 </p>
 
-- **Drag & Drop Builder** — Build forms visually with an intuitive editor. No coding required.
-- **Conditional Logic** — Show or hide fields based on previous answers for smart, dynamic forms.
-- **No Response Limits** — Collect unlimited responses on paid plans. No per-response fees.
-- **Beautiful Themes** — Professionally designed themes or full customization to match your brand.
-- **Real-time Analytics** — Track views, completion rates, and drop-off points.
-- **Powerful Integrations** — Connect with Zapier, Webhooks, Google Sheets, Slack, and more.
+- **Drag-and-drop builder** — Add, reorder, and configure fields in the visual editor.
+- **Conditional logic** — Show or hide fields based on previous answers.
+- **Response collection** — Paid plans are configured without per-response fees or response caps.
+- **Themes** — Use a supplied theme or customize colors and branding.
+- **Response analytics** — Track views, completion rates, and drop-off points.
+- **Integrations** — Connect with Zapier, webhooks, Google Sheets, and Slack.
 - **File Uploads** — Accept documents, images, videos with configurable size limits.
 - **Custom Branding** — Remove Formary branding, use your own domain and colors.
 - **Embeds & Sharing** — Embed forms anywhere with one line of code, or share via link.
@@ -246,5 +246,5 @@ Source-available, not open source. See [LICENSE.md](LICENSE.md) for what is perm
 
 <p align="center">
   Built with Next.js, Tailwind CSS, Prisma, and Stripe.<br/>
-  <strong>Formary</strong> — Beautiful forms that convert.
+  <strong>Formary</strong> — Form building, response collection, and analytics.
 </p>

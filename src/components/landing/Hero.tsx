@@ -26,15 +26,15 @@ export default function Hero() {
 
           {/* Heading */}
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-extrabold tracking-tight text-balance animate-slide-up">
-            Build forms that
+            Build and publish
             <br />
-            <span className="gradient-text">people love filling</span>
+            <span className="gradient-text">forms without code</span>
           </h1>
 
           {/* Subheading */}
           <p className="mt-6 text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto text-balance animate-slide-up" style={{ animationDelay: "0.1s" }}>
-            Create stunning forms, surveys, and quizzes in minutes.
-            No response limits. No hidden fees. Just beautiful forms that get results.
+            Add conditional logic, payments, file uploads, embeds, custom branding,
+            and response analytics from one editor.
           </p>
 
           {/* CTA buttons */}
@@ -51,7 +51,7 @@ export default function Hero() {
 
           {/* Social proof */}
           <p className="mt-6 text-sm text-gray-500 animate-fade-in" style={{ animationDelay: "0.3s" }}>
-            Free forever. No credit card required.
+            A free plan is available; current limits are shown at signup.
           </p>
         </div>
 

@@ -38,7 +38,7 @@ export default function Features() {
             Everything you need to build better forms
           </h2>
           <p className="mt-4 text-lg text-gray-600">
-            Powerful features that make form building a joy, not a chore.
+            Editing, logic, collection, and reporting tools in one form workflow.
           </p>
         </div>
 

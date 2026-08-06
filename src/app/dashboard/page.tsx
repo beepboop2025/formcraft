@@ -138,7 +138,7 @@ export default function DashboardPage() {
             </div>
             <h2 className="text-xl font-semibold text-gray-900 mb-2">Create your first form</h2>
             <p className="text-sm text-gray-500 max-w-sm mb-8">
-              Build beautiful forms in minutes with our drag-and-drop builder. No coding required.
+              Add fields with the drag-and-drop editor, configure the form, and publish when ready.
             </p>
             <button onClick={handleCreateForm} disabled={creating} className="btn-primary">
               <Plus className="h-4 w-4" />
