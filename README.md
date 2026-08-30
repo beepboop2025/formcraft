@@ -4,6 +4,11 @@
 </div>
 
 <p align="center">
+  <a href="https://github.com/beepboop2025/formary/actions/workflows/tests.yml"><img src="https://github.com/beepboop2025/formary/actions/workflows/tests.yml/badge.svg" alt="tests" /></a>
+  <img src="https://img.shields.io/badge/coverage-98%25-brightgreen" alt="coverage" />
+</p>
+
+<p align="center">
   <img src="docs/screenshots/hero.png" alt="Formary — Beautiful Forms That Convert" width="100%" />
 </p>
 

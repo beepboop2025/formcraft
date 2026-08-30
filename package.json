@@ -10,6 +10,9 @@
     "db:push": "npx prisma db push",
     "db:studio": "npx prisma studio",
     "db:seed": "npx tsx prisma/seed.ts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage",
     "postinstall": "npx prisma generate"
   },
   "dependencies": {
@@ -36,11 +39,13 @@
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "@vitest/coverage-v8": "^2.1.9",
     "autoprefixer": "^10.0.1",
     "postcss": "^8",
     "prisma": "^5.10.0",
     "tailwindcss": "^3.4.1",
     "tsx": "^4.7.0",
-    "typescript": "^5"
+    "typescript": "^5",
+    "vitest": "^2.1.9"
   }
 }
